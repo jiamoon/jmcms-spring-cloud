@@ -8,4 +8,4 @@ gate:
     secret: Xe*g@1jda
     expiration: 7200
     header: access-token
-    xxx: access-token---
+    xxx: access
